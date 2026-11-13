@@ -1,16 +1,22 @@
-## Hi there 👋
+# こんにちは、のりです
 
-<!--
-**nori-website/nori-website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**散らかったExcelを、ブラウザで開ける道具に。**
 
-Here are some ideas to get you started:
+「大人のAI遊び場」（nori.website）で、AIと一緒に作る業務改善ツールを公開しています。
+マクロや特定の人に頼る仕事を、誰でも開けて使えるHTMLツールに作り替える実験置き場です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ここに置いているもの
+
+- 業務改善HTMLツールの **ローカル再現版**（HTML＋CSV）
+  - kintoneがなくても、ダウンロードして自分のPCのブラウザで試せます
+  - 各ツールのデモは GitHub Pages でそのまま触れます
+- ツールごとの説明書（README）と、ダミーデータのサンプルCSV
+
+会社の実データや社内向けの作りは入れていません。すべて一般化した公開用です。
+
+## リンク
+
+- サイト（入口と解説）：https://nori.website
+- note（物語と学び）：https://note.com/human_tucan3868
+
+真面目に、ふざけながら、少しずつ増やしていきます。
